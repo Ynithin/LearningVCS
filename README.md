@@ -257,4 +257,4 @@
 - [Shashirith](https://github.com/shashirith)
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
-- [Nithin] (https://github.com/Ynithin)
+- [Nithin](https://github.com/Ynithin)
